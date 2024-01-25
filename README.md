@@ -31,9 +31,10 @@ A passionate iOS developer from Egypt
 
 ### Camlist
 
-<img src="https://github.com/amr0010/amr0010/assets/13542092/a8ad9809-20ea-49af-be65-af01b844239b" width="300" height="600" />   <img src="https://github.com/amr0010/amr0010/assets/13542092/bdf0b305-ddcc-4c81-abb8-8cfeebf1bf78" width="300" height="600" /> <img src="https://github.com/amr0010/amr0010/assets/13542092/fdc01a17-c48d-4f78-a2a0-8e00a4b2ccc6" width="300" height="600" />
-
+<img src="https://github.com/amr0010/amr0010/assets/13542092/a8ad9809-20ea-49af-be65-af01b844239b" width="200" height="400" />   <img src="https://github.com/amr0010/amr0010/assets/13542092/bdf0b305-ddcc-4c81-abb8-8cfeebf1bf78" width="200" height="400" /> <img src="https://github.com/amr0010/amr0010/assets/13542092/fdc01a17-c48d-4f78-a2a0-8e00a4b2ccc6" width="200" height="400" />
+**<br>**
 **Description:** A video marketplace to rehome pets online 
+**<br>**
 **Technologies Used:** Swift, UIKit, Firebase, RxSwift
 
 ---
@@ -41,15 +42,19 @@ A passionate iOS developer from Egypt
 
 ### Happaning
 
-<img src="https://github.com/amr0010/amr0010/assets/13542092/0351d328-e554-44fa-a687-9e47bc043069" width="300" height="600" />   <img src="https://github.com/amr0010/amr0010/assets/13542092/710bae82-63e1-429a-a229-3771e1db913b" width="300" height="600" /> <img src="https://github.com/amr0010/amr0010/assets/13542092/1d7cfdd5-74b4-4277-baf7-a51e0ed60ab1" width="300" height="600" />
+<img src="https://github.com/amr0010/amr0010/assets/13542092/0351d328-e554-44fa-a687-9e47bc043069" width="200" height="400" />   <img src="https://github.com/amr0010/amr0010/assets/13542092/710bae82-63e1-429a-a229-3771e1db913b" width="200" height="400" /> <img src="https://github.com/amr0010/amr0010/assets/13542092/1d7cfdd5-74b4-4277-baf7-a51e0ed60ab1" width="200" height="400" />
+**<br>**
 **Description:** A social media platform for connecting people with shared interests and activities.
+**<br>**
 **Technologies Used:** Swift, SwiftUI, UIKit, ARKit, 
 
 ---
 
 ### nandbox
-<img src="https://github.com/amr0010/amr0010/assets/13542092/af74a46f-d686-4f16-bdbb-7ce09a5660b2" width="270" height="600" />   <img src="https://github.com/amr0010/amr0010/assets/13542092/dd92ee5c-1737-42ca-b6c0-0d61f74ddf70" width="300" height="600" /> <img src="https://github.com/amr0010/amr0010/assets/13542092/292c67e0-4075-4488-8ee9-3f10bf0adc79" width="300" height="600" />
+<img src="https://github.com/amr0010/amr0010/assets/13542092/af74a46f-d686-4f16-bdbb-7ce09a5660b2" width="200" height="400" />   <img src="https://github.com/amr0010/amr0010/assets/13542092/dd92ee5c-1737-42ca-b6c0-0d61f74ddf70" width="200" height="400" /> <img src="https://github.com/amr0010/amr0010/assets/13542092/292c67e0-4075-4488-8ee9-3f10bf0adc79" width="200" height="400" />
+**<br>**
 **Description:** A free messaging app for Iphone
+**<br>**
 **Technologies Used:** Swift, Obj-C, sqlite, socket 
 
 
