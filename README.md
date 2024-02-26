@@ -8,6 +8,7 @@
 <h3 align="center"> - 📫  amr.magdy.dev@gmail.com  </h3>  
   <p align="center">  
 <a href="https://linkedin.com/in/amrmag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrmag" height="30" width="40" /></a>  
+    <a href="https://medium.com/@amr.magdy.dev" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" alt="amrmag" height="30" width="50" /></a>  
 </p>  
 
   
